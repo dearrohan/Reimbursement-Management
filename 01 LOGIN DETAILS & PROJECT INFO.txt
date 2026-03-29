@@ -1,0 +1,17 @@
+** **
+
+**Database Name: incomexpmg**
+
+**Developed by Alshoja M Ikbal**
+
+**Recommended PHP Version 5.6.3, 7.4.12**
+
+After Setup, go to URL: "http://localhost/ExpenseManagement_CI/"
+
+Remember: Do not change the project's folder name without updating the $config['base_url']
+
+
+**Admin Login Details** 
+
+Email	: williams@gmail.com
+Password: password123
